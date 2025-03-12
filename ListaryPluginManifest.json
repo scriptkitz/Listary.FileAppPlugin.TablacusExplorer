@@ -5,9 +5,9 @@
   "PluginType": "FileAppPlugin",
   "PluginVersion": "0.1.0",
   "DisplayName": "TablacusExplorer",
-  "Authors": [ "Listary" ],
+  "Authors": [ "scriptkitz" ],
   "Description": "Listary file application plugin for TablacusExplorer.",
-  "Homepage": "https://github.com/listary/Listary.FileAppPlugin.WinRAR",
+  "Homepage": "https://github.com/scriptkitz/Listary.FileAppPlugin.TablacusExplorer",
   "Icon": "Icon.png",
 
   "Api": "NetFramework",
