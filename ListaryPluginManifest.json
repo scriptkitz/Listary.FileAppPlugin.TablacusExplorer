@@ -4,7 +4,7 @@
   "Id": "TablacusExplorer",
   "PluginType": "FileAppPlugin",
   "PluginVersion": "0.1.0",
-  "DisplayName": "TablacusExplorer",
+  "DisplayName": "Tablacus Explorer",
   "Authors": [ "scriptkitz" ],
   "Description": "Listary file application plugin for TablacusExplorer.",
   "Homepage": "https://github.com/scriptkitz/Listary.FileAppPlugin.TablacusExplorer",

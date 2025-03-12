@@ -17,7 +17,7 @@ namespace Listary.FileAppPlugin.TablacusExplorer
 
         bool IFileAppPlugin.IsSharedAcrossApplications => false;
 
-        SearchBarType IFileAppPlugin.SearchBarType => SearchBarType.Fixed;
+        SearchBarType IFileAppPlugin.SearchBarType => SearchBarType.Floating;
 
 
         IFileWindow IFileAppPlugin.BindFileWindow(IntPtr hWnd)
